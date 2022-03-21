@@ -1,0 +1,5 @@
+com\java_api\java_api\Pessoa.class
+com\java_api\java_api\ServletInitializer.class
+com\java_api\java_api\JavaApiApplication.class
+com\java_api\java_api\PessoaController.class
+com\java_api\java_api\repository\PessoaRepository.class
